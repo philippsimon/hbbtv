@@ -4,6 +4,12 @@
 - http://hbbtv-live.irt.de/validator/
 
 
+## Emulator
+
+- https://addons.mozilla.org/de/firefox/addon/firehbbtv/ (only works with Firefox <= 46.0.1)
+- http://www.operasoftware.com/products/tv/tv-emulator
+
+
 ## Overview & Link pages
 
 - http://www.hbbtv-developer.com/site/blog/
@@ -14,6 +20,7 @@
 
 ## Demos
 
+- http://www.hbbig.com/ (requires HbbTV Plugin)
 - http://tv-html.irt.de/demos.php
 
 
