@@ -6,7 +6,9 @@
 
 ## Emulator
 
-- https://addons.mozilla.org/de/firefox/addon/firehbbtv/ (only works with Firefox <= 46.0.1)
+- https://addons.mozilla.org/de/firefox/addon/firehbbtv/  
+  Only works with Firefox <= 46.0.1. You can download it [here](https://ftp.mozilla.org/pub/firefox/releases/46.0.1/) and you have to forbid then automatic updates.  
+  Under Windows I recommend using [Firefox Portable ESR](http://portableapps.com/apps/internet/firefox-portable-esr).
 - http://www.operasoftware.com/products/tv/tv-emulator
 
 
